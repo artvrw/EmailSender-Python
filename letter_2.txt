@@ -1,0 +1,9 @@
+Hi [NAME]!
+
+Happy Birthday! 
+
+I decided to use my programming skills to automate this email so I wouldn't forget your special day. Yes, I'm that lazy, but I also care about you exactly this much!
+
+I hope your day is filled with good food, great friends, and lots of cake. Don't eat it all by yourself.
+
+Cheers!

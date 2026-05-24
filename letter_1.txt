@@ -1,0 +1,10 @@
+Hey [NAME],
+
+Level up! Congratulations on successfully surviving another 365 days. 
+
+I was going to write a complex Python algorithm to calculate how awesome you are, but my computer crashed from an integer overflow! 
+
+May your coffee be strong, your code compile on the first try, and your birthday cake be absolutely massive. Have a fantastic day!
+
+Best wishes,
+Artur
